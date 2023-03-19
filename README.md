@@ -29,9 +29,10 @@ When I'm not writing code, I enjoy reading and learning about emerging technolog
 [<img align="left" alt="HTML5" width="26px" src="https://img.icons8.com/officel/40/000000/java-eclipse.png"/>]
 
 
-
+<br>
+<br>
 ----------
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rtgenaapc&show_icons=true&theme=transparent)
+  [![GitHub stats](https://github-readme-stats.vercel.app/api?username=rtgenaapc&show_icons=true&theme=transparent)
   
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rtgenaapc&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
   
