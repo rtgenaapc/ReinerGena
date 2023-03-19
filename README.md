@@ -2,8 +2,6 @@
 
 <h1 align="center">Hi 👋, I'm Reiner Gena</h1>
 <h3 align="center">A passionate and aspiring Web Designer and Developer in Makati City</h3>
-<img align="right" alt="GIF" src="https://github.com/TianMeds/TianMeds/blob/main/Program.gif?raw=true" width="500" height="320" />
-
 
 I’m a 2nd Year BSIT-MI student (Bachelor of Science in Information Technology with specialization in Mobile and Internet Technology) focusing on continuing as a web developer who is passionate about bringing clients’ visions to life. 
 
