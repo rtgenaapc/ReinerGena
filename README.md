@@ -28,9 +28,6 @@ When I'm not writing code, I enjoy reading and learning about emerging technolog
 [<img align="left" alt="HTML5" width="26px" src="https://icons8.com/icon/11111/adobe-illustrator"/>]
 [<img align="left" alt="HTML5" width="26px" src="https://img.icons8.com/officel/40/000000/java-eclipse.png"/>]
 
-
-<br>
-<br>
 ----------
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rtgenaapc&show_icons=true&theme=transparent)
   
