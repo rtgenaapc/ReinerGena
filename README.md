@@ -25,7 +25,7 @@ When I'm not writing code, I enjoy reading and learning about emerging technolog
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />]
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />]
 [<img align="left" alt="HTML5" width="26px" src="https://img.icons8.com/color/48/000000/adobe-photoshop--v1.png"/>]
-[<img align="left" alt="HTML5" width="26px" src="https://icons8.com/icon/11111/adobe-illustrator"/>]
+[<img align="left" alt="HTML5" width="26px" src="https://user-images.githubusercontent.com/119903810/226182042-96e11e06-b97f-4d7c-b33c-bd242945ff09.png"/>]
 [<img align="left" alt="HTML5" width="26px" src="https://img.icons8.com/officel/40/000000/java-eclipse.png"/>]
 
 ----------
