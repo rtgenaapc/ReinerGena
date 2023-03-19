@@ -1,7 +1,4 @@
 
-//[<img align="center" alt="HTML5" width="1100px" src="hlink" />]
-<br>
-<br>
 
 <h1 align="center">Hi 👋, I'm Reiner Gena</h1>
 <h3 align="center">A passionate and aspiring Web Designer and Developer in Makati City</h3>
