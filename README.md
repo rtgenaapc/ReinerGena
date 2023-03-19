@@ -20,7 +20,7 @@ When I'm not writing code, I enjoy reading and learning about emerging technolog
 
 ### Language and Appications
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />]
-[<img align="left" alt="HTML5" width="26px" src="https://img.icons8.com/color/48/000000/css3.png"/>](https://tianmeds.me)
+[<img align="left" alt="HTML5" width="26px" src="https://img.icons8.com/color/48/000000/css3.png"/>]
 [<img align="left" alt="HTML5" width="26px" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"/>]
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />]
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />]
@@ -32,10 +32,11 @@ When I'm not writing code, I enjoy reading and learning about emerging technolog
 <br>
 <br>
 ----------
-  [![GitHub stats](https://github-readme-stats.vercel.app/api?username=rtgenaapc&show_icons=true&theme=transparent)
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rtgenaapc&show_icons=true&theme=transparent)
   
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rtgenaapc&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
   
   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=rtgenaapc&theme=dark)](https://git.io/streak-stats)
 
-
+<!--
+**rtgenaapc/ReinerGena** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
