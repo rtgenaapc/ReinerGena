@@ -18,11 +18,6 @@ When I'm not writing code, I enjoy reading and learning about emerging technolog
 * 😄 Pronouns: He/Him
 
 
-### Talk and Connect with Me.
-[![Facebook: Christian Medallada](https://img.shields.io/badge/-Facebook-blue?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/Cmedsss)](https://www.facebook.com/Cmedsss)
-[![Linkedin: Christian Medallada](https://img.shields.io/badge/-Christian_Medallada-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tianmeds/)](https://www.linkedin.com/in/tianmeds/)
-<br />
-
 ### Language and Appications
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />]
 [<img align="left" alt="HTML5" width="26px" src="https://img.icons8.com/color/48/000000/css3.png"/>](https://tianmeds.me)
