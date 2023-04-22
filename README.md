@@ -11,11 +11,6 @@ I specialized in Front-end languages. My most vital skill is my creativity. Bein
 
 When I'm not writing code, I enjoy reading and learning about emerging technologies, minimalism, and startup culture. I share the things I've learned through short videos.
 
-* 🌱 I’m currently learning Python, JavaScript, React and SQL
-* 💬 Ask me about Website Design,  Photo and Video Editing, and Vector Designs
-* 😄 Pronouns: He/Him
-
-
 ### Language and Appications
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />]
 [<img align="left" alt="HTML5" width="26px" src="https://img.icons8.com/color/48/000000/css3.png"/>]
@@ -27,6 +22,7 @@ When I'm not writing code, I enjoy reading and learning about emerging technolog
 [<img align="left" alt="HTML5" width="26px" src="https://img.icons8.com/officel/40/000000/java-eclipse.png"/>]
 
 ----------
+
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rtgenaapc&show_icons=true&theme=transparent)
   
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rtgenaapc&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
